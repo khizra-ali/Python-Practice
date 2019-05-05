@@ -1,2 +1,3 @@
 # python-assignments
-Assignment given in PIAIC classes by Sir Inam ul Haq
+Assignments given in PIAIC classes by Sir Inam ul Haq
+Gulshan Campus

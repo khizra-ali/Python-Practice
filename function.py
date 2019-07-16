@@ -75,3 +75,9 @@ def check(val1):
     else:
         return("odd")
 check(value1)
+
+def pizza(crust, **topping): # single * steric is for tuple and double ** for dictionaries
+    print("You have ordered a pizza with", crust, "crust and the following toppings")
+    for key,value in topping.items():
+        print(key, ":", value)
+pizza("Thick", topping1="Green Olives",topping2="Chicken", topping3="black olives")
